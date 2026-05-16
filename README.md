@@ -1,9 +1,20 @@
 # 🚀 Hi, I'm Sushan Prajapati! 
 
+<p align="left">
+  <img src="https://komarev.com" alt="Sushan's Profile Views" />
+</p>
+
 ### 🧑‍💻 Professional Summary
 I am a **Full-Stack Software Engineer** based in Albany, CA, with hands-on experience building secure, scalable, and high-performance applications. My expertise spans **Java, Spring Boot, React.js, Node.js, and Cloud DevOps workflows**. I am passionate about clean code architectures, microservices, and utilizing AI-assisted development tools to speed up production cycles.
 
-🌟 **[Explore my Portfolio Website](https://github.io)**
+---
+
+### 🌐 My Portfolio Website
+<p align="left">
+  <a href="https://github.io" target="_blank">
+    <img src="https://shields.io" alt="Sushan's Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -40,10 +51,14 @@ I am a **Full-Stack Software Engineer** based in Albany, CA, with hands-on exper
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Metrics & Streaks
 <p align="center">
-  <img src="https://vercel.app" alt="Sushant's GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Sushant's Top Languages" width="48%"/>
+  <img src="https://vercel.app" alt="Sushan's GitHub Stats" width="48%"/>
+  <img src="https://vercel.app" alt="Sushan's Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Sushan's Commit Streak" width="98%"/>
 </p>
 
 ---
@@ -57,3 +72,4 @@ I am a **Full-Stack Software Engineer** based in Albany, CA, with hands-on exper
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
+
