@@ -1,121 +1,145 @@
-# Hi 👋, I'm Sushan Prajapati
+<h1 align="center">Hi 👋, I'm Sushan Prajapati</h1>
 
-### Software Engineer | Full Stack Developer | Java & Spring Boot Developer
+<h3 align="center">
+Software Engineer | Java & Spring Boot Developer | Full Stack Developer
+</h3>
 
-Passionate Software Engineer with experience building scalable web applications, RESTful APIs, cloud-native solutions, and DevOps automation. I enjoy solving complex problems and developing high-quality software using modern technologies.
+<p align="center">
+Passionate Software Engineer with 3+ years of experience building scalable web applications, RESTful APIs, cloud-native solutions, and CI/CD automation using Java, Spring Boot, React, Node.js, MongoDB, AWS, Docker, and Kubernetes.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with experience in Full Stack Development
-- 🌱 Currently learning Cloud Architecture, Kubernetes, and Microservices
-- 🔭 Building scalable applications using Java, Spring Boot, React, and AWS
-- ☁️ Interested in Cloud Computing, DevOps, and Infrastructure Automation
-- 🤝 Open to Software Engineer, Java Developer, Full Stack Developer, and DevOps opportunities
-- 📍 California, USA
+- 💻 Software Engineer specializing in Full Stack Development
+- 🔧 Experienced in Java, Spring Boot, React.js, Node.js, and MongoDB
+- ☁️ Building cloud-native applications using AWS, Docker, and Kubernetes
+- 🔄 Experienced with CI/CD pipelines using Jenkins and GitHub Actions
+- 📚 Strong understanding of REST APIs, JWT Authentication, Microservices, and Agile Development
+- 🌱 Currently expanding expertise in System Design, Kubernetes, and Distributed Systems
+- 📍 Albany, California
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technical Skills
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Frontend Development
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Additional Technologies
+`REST APIs` `Microservices` `JWT Authentication`
+`Kafka` `Redis` `JUnit` `Jest`
+`Git` `Postman` `Agile/Scrum`
+`CI/CD` `Socket.io`
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📅 Smart Scheduling System
-Full-stack scheduling platform built with React, Spring Boot, MongoDB, and JWT Authentication.
+Full-stack scheduling platform designed to match therapists and clients based on real-time availability.
 
-**Features**
-- User Authentication & Authorization
-- Role-Based Access Control
-- Scheduling & Calendar Management
-- REST API Integration
-- Responsive Dashboard
+#### Highlights
+- Developed secure REST APIs using Node.js and Express
+- Implemented role-based authentication and authorization
+- Designed scalable backend architecture with MongoDB
+- Built conflict-free scheduling and availability management
 
-**Tech Stack**
-`React` `Spring Boot` `MongoDB` `JWT`
+**Tech Stack:** Node.js • Express.js • MongoDB • JWT • REST APIs
 
----
-
-### 🏍️ Motorbike Parts Management System
-Inventory and management system for bike parts with Admin and Client dashboards.
-
-**Features**
-- Secure Login System
-- CRUD Operations
-- Search & Filtering
-- Quantity Management
-- Inventory Tracking
-
-**Tech Stack**
-`React` `Node.js` `Express.js` `MongoDB`
+🔗 Repository:
+https://github.com/Sushant9818/SmartScheduling
 
 ---
 
-### 🔄 CI/CD Automation Pipeline
-Automated build, testing, and deployment pipeline.
+### 🏍 Suzuki Bike Management System
+Inventory and management platform supporting both administrators and customers.
 
-**Features**
-- Continuous Integration
-- Automated Testing
-- Docker Containerization
-- Deployment Automation
+#### Highlights
+- JWT Authentication & Role-Based Access Control
+- Complete CRUD operations
+- Inventory tracking and management
+- Search and filtering functionality
+- Responsive React frontend
 
-**Tech Stack**
-`GitHub Actions` `Docker` `Jenkins`
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
----
-
-### ☁️ AWS Cloud Deployment
-Cloud-native application deployment and infrastructure management project.
-
-**Features**
-- EC2 Deployment
-- Dockerized Applications
-- Load Balancing
-- Security Best Practices
-
-**Tech Stack**
-`AWS` `Docker` `Linux`
+🔗 Repository:
+https://github.com/Sushant9818/Bikes
 
 ---
 
-## 📈 GitHub Stats
+### 🚚 DHL Logistics Clone
+Real-time shipment tracking platform built using MERN Stack and Socket.io.
 
-![Sushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant9818&show_icons=true&theme=default)
+#### Highlights
+- Real-time shipment status updates
+- Secure authentication using JWT and bcrypt
+- File upload management with Multer
+- Redux state management
+- Responsive frontend architecture
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Socket.io
+
+---
+
+### 📝 Blog Platform
+Full-featured blogging platform supporting authentication and media uploads.
+
+#### Highlights
+- User authentication
+- CRUD operations for blog posts
+- GridFS integration for media management
+- Responsive design
+
+**Tech Stack:** MERN Stack
+
+---
+
+### ⚙️ CI/CD Pipeline Automation
+Production-style deployment pipeline using Docker, Jenkins, Kubernetes, and GitHub.
+
+#### Highlights
+- Dockerized application deployment
+- Jenkins automation pipelines
+- Kubernetes orchestration
+- Automated testing and deployment
+
+**Tech Stack:** Docker • Jenkins • Kubernetes • GitHub Actions
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant9818&show_icons=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant9818&layout=compact)
 
@@ -123,24 +147,32 @@ Cloud-native application deployment and infrastructure management project.
 
 ## 🎯 Current Focus
 
-- Cloud Architecture (AWS)
-- Kubernetes
-- Microservices
-- DevOps Automation
+- Java & Spring Boot Development
+- Backend Engineering
+- Microservices Architecture
+- Cloud Computing (AWS)
+- Docker & Kubernetes
+- CI/CD Automation
 - System Design
-- Full Stack Development
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-- GitHub: https://github.com/Sushant9818
-- LinkedIn: Add Your LinkedIn Profile
-- Email: Add Your Professional Email
+📧 Email: Sushanprajapati09@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/sushan-prajapati-149120186
+
+🐙 GitHub:
+https://github.com/Sushant9818
+
+🌐 Portfolio:
+https://sushant9818.github.io/Sushan
 
 ---
 
-⭐ Thank you for visiting my profile! Feel free to connect, collaborate, and explore my projects.
+⭐ Thanks for visiting my profile. Feel free to connect, collaborate, and explore my projects!
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:Sushanprajapati09@gmail.com">
