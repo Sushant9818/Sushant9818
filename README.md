@@ -1,71 +1,146 @@
-# 🚀 Hi, I'm Sushan Prajapati! 
+# Hi 👋, I'm Sushan Prajapati
 
-<p align="left">
-  <img src="https://komarev.com" alt="Sushan's Profile Views" />
-</p>
+### Software Engineer | Full Stack Developer | Java & Spring Boot Developer
 
-### 🧑‍💻 Professional Summary
-I am a **Full-Stack Software Engineer** based in Albany, CA, with hands-on experience building secure, scalable, and high-performance applications. My expertise spans **Java, Spring Boot, React.js, Node.js, and Cloud DevOps workflows**. I am passionate about clean code architectures, microservices, and utilizing AI-assisted development tools to speed up production cycles.
+Passionate Software Engineer with experience building scalable web applications, RESTful APIs, cloud-native solutions, and DevOps automation. I enjoy solving complex problems and developing high-quality software using modern technologies.
 
 ---
 
-### 🌐 My Portfolio Website
-<p align="left">
-  <a href="https://github.io" target="_blank">
-    <img src="https://shields.io" alt="Sushan's Portfolio" />
-  </a>
-</p>
+## 🚀 About Me
+
+- 💻 Software Engineer with experience in Full Stack Development
+- 🌱 Currently learning Cloud Architecture, Kubernetes, and Microservices
+- 🔭 Building scalable applications using Java, Spring Boot, React, and AWS
+- ☁️ Interested in Cloud Computing, DevOps, and Infrastructure Automation
+- 🤝 Open to Software Engineer, Java Developer, Full Stack Developer, and DevOps opportunities
+- 📍 California, USA
 
 ---
 
-### ⚡ Quick Facts
-- 💼 Former **Full Stack Developer Intern** at Bitflux Technologies.
-- 🎓 **Bachelor of Computer Engineering** graduate.
-- 📜 Certified **Java Full Stack Developer** (Thoth IT Training).
-- 🌱 Currently expanding my skill set in **Microservices, Kubernetes, and Cloud Infrastructures (AWS/Azure)**.
-- 💬 Ask me about **MERN/Enterprise Java development, building CI/CD pipelines, and secure JWT-based system design**.
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 Featured Projects
 
+### 📅 Smart Scheduling System
+Full-stack scheduling platform built with React, Spring Boot, MongoDB, and JWT Authentication.
 
-| Category | Technologies & Frameworks |
-| :--- | :--- |
-| **☕ Programming** | ![Java](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) |
-| **🌐 Frontend** | ![React](https://shields.io) ![Angular](https://shields.io) ![Redux](https://shields.io) ![TailwindCSS](https://shields.io) ![Bootstrap](https://shields.io) ![MUI](https://shields.io) ![Ant Design](https://shields.io) |
-| **⚙️ Backend & APIs** | ![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![Spring](https://shields.io) ![Hibernate](https://shields.io) `REST APIs` `Microservices` `MVC Architecture` |
-| **🗄️ Databases & Caching** | ![MongoDB](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![Oracle](https://shields.io) ![Redis](https://shields.io) |
-| **☁️ DevOps & Cloud** | ![Docker](https://shields.io) ![Kubernetes](https://shields.io) ![Jenkins](https://shields.io) ![AWS](https://shields.io) ![Azure](https://shields.io) `S3` `Lambda` |
-| **🔧 Utils & Testing** | `JWT Auth` ![Apache Kafka](https://shields.io) `Socket.io` `Multer` `Axios` `Formik/Yup` `Bcrypt` ![Jest](https://shields.io) `JUnit` ![Postman](https://shields.io) |
-| **🤖 AI Tools** | ![ChatGPT](https://shields.io) `Cursor` ![GitHub Copilot](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) `Agile/Scrum` |
+**Features**
+- User Authentication & Authorization
+- Role-Based Access Control
+- Scheduling & Calendar Management
+- REST API Integration
+- Responsive Dashboard
 
----
-
-### 📂 Featured Projects
-
-*   **[Suzuki-Bike-Management-System](https://github.com)**: Complete inventory tracking and CRUD admin system utilizing the MERN stack with role-based JWT access.
-*   **[Smart-Scheduling-System](https://github.com)**: Conflict-free scheduling engine optimized for clinical matching utilizing a layered Express/Node.js architecture.
-*   **[DHL-Clone](https://github.com)**: High-speed real-time shipping dashboard utilizing Socket.io, Redux state management, and encrypted user layers.
-*   **[CICD-Pipeline-MERN-App](https://github.com)**: Containerized web applications built via Docker, orchestrating automated workflows via Jenkins & Kubernetes.
+**Tech Stack**
+`React` `Spring Boot` `MongoDB` `JWT`
 
 ---
 
-### 📊 GitHub Metrics & Streaks
-<p align="center">
-  <img src="https://vercel.app" alt="Sushan's GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Sushan's Top Languages" width="48%"/>
-</p>
+### 🏍️ Motorbike Parts Management System
+Inventory and management system for bike parts with Admin and Client dashboards.
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Sushan's Commit Streak" width="98%"/>
-</p>
+**Features**
+- Secure Login System
+- CRUD Operations
+- Search & Filtering
+- Quantity Management
+- Inventory Tracking
+
+**Tech Stack**
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
+### 🔄 CI/CD Automation Pipeline
+Automated build, testing, and deployment pipeline.
+
+**Features**
+- Continuous Integration
+- Automated Testing
+- Docker Containerization
+- Deployment Automation
+
+**Tech Stack**
+`GitHub Actions` `Docker` `Jenkins`
+
+---
+
+### ☁️ AWS Cloud Deployment
+Cloud-native application deployment and infrastructure management project.
+
+**Features**
+- EC2 Deployment
+- Dockerized Applications
+- Load Balancing
+- Security Best Practices
+
+**Tech Stack**
+`AWS` `Docker` `Linux`
+
+---
+
+## 📈 GitHub Stats
+
+![Sushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant9818&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant9818&layout=compact)
+
+---
+
+## 🎯 Current Focus
+
+- Cloud Architecture (AWS)
+- Kubernetes
+- Microservices
+- DevOps Automation
+- System Design
+- Full Stack Development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Sushant9818
+- LinkedIn: Add Your LinkedIn Profile
+- Email: Add Your Professional Email
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to connect, collaborate, and explore my projects.
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:Sushanprajapati09@gmail.com">
