@@ -247,7 +247,7 @@ https://linkedin.com/in/sushan-prajapati-149120186
 https://github.com/Sushant9818
 
 🌐 Portfolio:
-https://sushant9818.github.io/Sushan
+https://portfolio-one-mu-e26t50z4cf.vercel.app/
 
 ---
 
