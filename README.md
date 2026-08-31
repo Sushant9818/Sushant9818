@@ -28,6 +28,22 @@ Building scalable web applications, REST APIs, cloud-native solutions, and CI/CD
 
 ---
 
+# 💼 Professional Experience
+
+**Software Engineer** | *TixFix* | Jun 2024 – Present
+
+Contributing to a production event ticketing and management platform — building RESTful APIs in Spring Boot for ticket inventory, attendee management, and payments, and React.js organizer dashboards for event and ticket tracking.
+
+**Full Stack Developer (Volunteer Internship)** | *NANC Community Platform* | Feb 2026 – Present
+
+Built a full-stack platform for a 501(c)(3) nonprofit using Next.js App Router with role-based auth guards, a centralized API client with silent JWT refresh, and an end-to-end facility rental reservation system.
+
+**Full Stack Developer (Internship)** | *Bitflux Technologies, Nepal* | Jan 2022 – Feb 2023
+
+Delivered 30+ full-stack features and 20+ reusable React components across the SDLC using React.js and Spring Boot, integrating 10+ RESTful APIs with ~95% Lighthouse performance scores.
+
+---
+
 # 🛠 Technical Skills
 
 ## Programming Languages
@@ -45,6 +61,7 @@ Building scalable web applications, REST APIs, cloud-native solutions, and CI/CD
 ## Frontend Technologies
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,6 +70,8 @@ Building scalable web applications, REST APIs, cloud-native solutions, and CI/CD
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
 ---
 
@@ -63,6 +82,7 @@ Building scalable web applications, REST APIs, cloud-native solutions, and CI/CD
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ---
@@ -93,22 +113,60 @@ Building scalable web applications, REST APIs, cloud-native solutions, and CI/CD
 
 ```text
 JWT Authentication
+Clerk Authentication
 Microservices
 Kafka
 Redis
 Socket.io
+Multer
+Axios
+Formik
+Yup
+Bcrypt
 Postman
 Jest
 JUnit
+Mockito
 MVC Architecture
+Spring Security
+OpenAPI
+Maven
+Gradle
+Stripe / Payment Gateway Integration
 Agile/Scrum
 CI/CD
 GitHub Copilot
 Cursor
 ChatGPT
+Claude
 ```
 
 # 🚀 Featured Projects
+
+## ☕ Antic-Cafe — Full-Stack Restaurant Ordering & Operations Platform
+
+Production full-stack cafe platform supporting online ordering, table reservations, and dine-in tab management, with a 6-role access control system and fully custom Clerk auth flows.
+
+### Features
+
+- Role-Based Access Control (Admin, Waiter, Kitchen, Cashier, Driver, Customer)
+- Custom Clerk Auth (OAuth, MFA, Email Verification, Password Reset)
+- Stripe, eSewa & Khalti Payment Gateway Integration
+- Kitchen, Cashier & Delivery Operational Dashboards
+- Live Order Tracking & Admin Audit Log
+- Sales Reporting & Staff Management Console
+
+### Tech Stack
+
+Next.js 16 • Prisma • PostgreSQL (Supabase) • Clerk
+
+🔗 Repository:
+https://github.com/Sushant9818/ANTICCAFE
+
+🌐 Live Demo:
+https://anticcafe-9ch6.vercel.app
+
+---
 
 ## 📅 Smart Scheduling System
 
@@ -129,6 +187,9 @@ Node.js • Express.js • MongoDB • JWT • REST APIs
 
 🔗 Repository:
 https://github.com/Sushant9818/SmartScheduling
+
+🌐 Live Demo:
+https://smart-scheduling-eta.vercel.app
 
 ---
 
@@ -151,6 +212,9 @@ React.js • Node.js • Express.js • MongoDB
 
 🔗 Repository:
 https://github.com/Sushant9818/Bikes
+
+🌐 Live Demo:
+https://suzuki-bike-nextjs.vercel.app
 
 ---
 
@@ -212,6 +276,16 @@ Docker • Jenkins • Kubernetes • GitHub Actions
 
 ---
 
+# 🎓 Training & Education
+
+**Java Full Stack Developer Training** | *Thoth IT Training, Irving, TX* | Nov 2023 – May 2024
+
+Trained in Java, Spring Boot, Hibernate, and enterprise backend development with layered architecture and microservices principles; built frontends with React.js, Angular, HTML5, CSS3, and JavaScript, and implemented CI/CD pipelines with Jenkins, Docker, and Kubernetes.
+
+**Bachelor of Computer Engineering** | *Purbanchal University – Khwopa Engineering College, Nepal* | Jan 2017 – Nov 2022
+
+---
+
 # 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant9818&show_icons=true&theme=default)
@@ -258,4 +332,3 @@ https://portfolio-one-mu-e26t50z4cf.vercel.app/
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
-
